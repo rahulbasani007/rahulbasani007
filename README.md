@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Rahul B
 
-![giphy (1)](https://github.com/user-attachments/assets/d9336536-8f3c-4ae5-80e6-5f1beee5aaa1)
-![giphy (2)](https://github.com/user-attachments/assets/bbcddb1e-a074-4c64-8332-34f9f8133a06)
+![giphy (1)](https://github.com/user-attachments/assets/d9336536-8f3c-4ae5-80e6-5f1beee5aaa1)![giphy (2)](https://github.com/user-attachments/assets/bbcddb1e-a074-4c64-8332-34f9f8133a06)
 
 
 🚀 **Cloud/DevOps Engineer** | **9+ Years Experience**  
