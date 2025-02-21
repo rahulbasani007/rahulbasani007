@@ -43,7 +43,7 @@ Passionate about automation, cloud computing, and DevOps methodologies. I love s
 ## 📫 Connect with Me
 📧 **Email:** rahulbasani007@gmail.com  
 🌍 **GitHub:** [github.com/your-profile](#)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/basani-bala-mariya-rahul-91543r/](#)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/basani-bala-mariya-rahul-91543r?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](#)  
 
 🚀 Always looking to collaborate on exciting DevOps & Cloud projects!
 
