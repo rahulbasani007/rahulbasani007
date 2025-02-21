@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Rahul B
 
 ![Cloud DevOps Engineer](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
-
-🚀 **Cloud/DevOps Engineer** | **9+ Years Experience**  
+[
+](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp5eG5jY284YnE2dG15bGsxdng0cDVjdndlYjhwMmFpN3c4MnhhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif)🚀 **Cloud/DevOps Engineer** | **9+ Years Experience**  
 Passionate about automation, cloud computing, and DevOps methodologies. I love solving infrastructure challenges and building scalable, reliable, and efficient solutions.
 
 ## 🌟 About Me
