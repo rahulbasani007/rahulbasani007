@@ -13,7 +13,7 @@ Passionate about automation, cloud computing, and DevOps methodologies. I love s
 - **DevOps Tools:** Terraform, Jenkins, Ansible, Docker, Kubernetes, GitHub Actions
 - **Languages & Scripting:** Python, Shell, Bash, Groovy, PowerShell
 - **Monitoring & Logging:** Splunk, CloudWatch, ELK Stack, Nagios
-- **Configuration Management:** Ansible, Puppet, Chef![giphy](https://github.com/user-attachments/assets/9b7a88b4-a278-4fd3-9cd5-c7e02c2d0f06)
+- **Configuration Management:**
 
 - **Version Control:** Git, GitHub, Bitbucket
 
